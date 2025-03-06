@@ -3,4 +3,4 @@ desc: 这是 AstrBot 的摸鱼日历插件
 help: 输入/set_time设置日历每天发送时间，/moyuribao立即发送摸鱼日报
 version: v1.0
 author: 橘子# 作者
-repo: https://github.com/Soulter/helloworld 
+repo:https://github.com/LDBJKSAFBKSAJE/astrbot_plugin_Fish_calendar
