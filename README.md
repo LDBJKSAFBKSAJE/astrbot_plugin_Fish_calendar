@@ -1,8 +1,9 @@
-# helloworld
+# astrbot_plugin_Fish_calendar
 
-AstrBot 插件模板
 
-A template plugin for AstrBot plugin feature
+AstrBot 摸鱼日报
+
+试做，输出视频格式摸鱼日报
 
 # 支持
 
